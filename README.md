@@ -1,16 +1,23 @@
-## Hi there 👋
+## Hey there!
+### Summary
+I'm **Naor Guetta**,
+a Computer Science student with just one semester left before I graduate 🎓
+I'm all about continuous learning, solving tricky problems, and diving into new technologies.
+I love working in teams where creativity and curiosity are key, and I’m always up for a challenge 😊
 
-<!--
-**NaorGuetta/NaorGuetta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Skills:
+* **Programming Languages:**  
+  Java , Python , C , C++ , C#
 
-Here are some ideas to get you started:
+* **Concepts & Paradigms:**  
+  Object-Oriented Programming (OOP) , Multithreading & Concurrency , Machine Learning 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* **Tools & Environments:**  
+  Unix Environment , Git
+
+* **Frameworks & Libraries:**  
+  React , Unity
+  
+📫 How to reach me: 
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/naor-guetta-899611290//)  
