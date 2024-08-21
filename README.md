@@ -1,11 +1,10 @@
 ## Hey there!
 ### Summary
 I'm **Naor Guetta**,
+
 a Computer Science student with just one semester left before I graduate 🎓
 
-I'm all about continuous learning, solving tricky problems, and diving into new technologies.
-
-I love working in teams where creativity and curiosity are key, and I’m always up for a challenge 😊
+Passionate about continuous learning, solving tricky problems, and diving into new technologies 😊
 
 ### Skills:
 * **Programming Languages:**  
