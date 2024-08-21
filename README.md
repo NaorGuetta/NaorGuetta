@@ -3,7 +3,6 @@
 I'm **Naor Guetta**,
 
 a Computer Science student with just one semester left before I graduate 🎓
-
 Passionate about continuous learning, solving tricky problems, and diving into new technologies 😊
 
 ### Skills:
