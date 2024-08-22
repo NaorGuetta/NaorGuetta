@@ -21,4 +21,4 @@ Passionate about continuous learning, solving tricky problems, and diving into n
 📫 How to reach me: 
 
 [<img src='https://github.com/NaorGuetta/NaorGuetta/blob/main/icons/linkedin.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/naor-guetta-899611290/)
-[<img src='https://github.com/NaorGuetta/NaorGuetta/blob/main/icons/gmail.png' alt='linkedin' height='40'>](naorguetta1@gmail.com)
+[<img src='https://github.com/NaorGuetta/NaorGuetta/blob/main/icons/gmail.png' alt='Gmail' width='20'>](mailto:naorguetta1@gmail.com)
