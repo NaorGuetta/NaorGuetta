@@ -1,5 +1,4 @@
 ## Hey there!
-### Summary
 I'm **Naor Guetta**,
 
 a Computer Science student with just one semester left before I graduate.🎓
