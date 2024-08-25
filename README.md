@@ -16,6 +16,8 @@ Passionate about continuous learning, solving tricky problems, and diving into n
 
 * **Frameworks & Libraries:**  
   React , Unity
+
+Check out my game development projects on [my itch.io page](https://naorguetta.itch.io/).
   
 📫 How to reach me: 
 
