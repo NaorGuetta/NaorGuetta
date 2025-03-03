@@ -1,8 +1,7 @@
 ## Hey there!
 I'm **Naor Guetta**,
 
-a Computer Science student with just one semester left before I graduate.🎓
-Passionate about continuous learning, solving tricky problems, and diving into new technologies 😊
+Computer Science graduate from Ben-Gurion University 🎓 Passionate about continuous learning, solving tricky problems, and diving into new technologies😊
 
 ### Skills:
 * **Programming Languages:**
@@ -17,12 +16,13 @@ Passionate about continuous learning, solving tricky problems, and diving into n
   ![React](https://img.shields.io/badge/React-informational?style=flat&logo=react&logoColor=white&color=61DAFB)
   ![Unity](https://img.shields.io/badge/Unity-informational?style=flat&logo=unity&logoColor=white&color=100000)
   ![TensorFlow](https://img.shields.io/badge/TensorFlow-informational?style=flat&logo=tensorflow&logoColor=white&color=F7DF1E)
-  
+  ![PyTorch](https://img.shields.io/badge/PyTorch-informational?style=flat&logo=pytorch&logoColor=white&color=EE4C2C)
+
 * **Concepts:**  
-  Object-Oriented Programming (OOP) , Multithreading & Concurrency , Machine Learning
+  Object-Oriented Programming (OOP), Multithreading & Concurrency, Machine Learning, Deep Learning
 
 * **Tools & Environments:**  
-  Unix Environment , Git
+  Unix Environment, Git
 
 🕹️Check out my game development projects on [my itch.io page](https://naorguetta.itch.io/). 
   
